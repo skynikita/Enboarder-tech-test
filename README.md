@@ -62,7 +62,7 @@ Write a program to find all of the URLs to which those link tags link and verify
 
 CSS test: Apply required CSS to produce the HTML as per the result image provided.
 
-In [answer06](https://github.com/enboarder/tech-test-engineer/tree/master/answers/answer06) file in a browser. Apply required css in the [styles.css](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/styles.css) file. The end result should look like the image in [CSS_Result.png](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/CSS_Result.png) file.
+In [answer06](https://github.com/enboarder/tech-test-engineer/tree/master/answers/answer06) file in a browser. Apply required css in the [styles.css](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer06/styles.css) file. The end result should look like the image in [CSS_Result.png](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer06/CSS_Result.png) file.
 
 #### Question 7
 
