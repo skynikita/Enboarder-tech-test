@@ -32,7 +32,7 @@ Write a program to find all of the URLs to which those link tags link and verify
 
 #### Question 4
 
-CSS test: [https://codesandbox.io/s/react-scss-test-2-syd6s](https://codesandbox.io/s/react-scss-test-2-syd6s)
+CSS test: Apply required CSS to produce the HTML as per the result image provided.
 
 In [answer04](https://github.com/enboarder/tech-test-junior-fullstack-engineer/tree/master/answers/answer04) folder, open this [index.html](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/index.html) file in a browser. Apply required css in the [styles.css](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/styles.css) file. The end result should look like the image in [CSS_Result.png](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/CSS_Result.png) file.
 
