@@ -1,6 +1,6 @@
 # Engineer Tech Test
 
-This coding test is a series of questions as outlined below. Please follow the instructions carefully. 
+This coding test is a series of questions as outlined below. Please follow the instructions carefully.
 
 It's recommended to use JavaScript ES6+ & React 16+ but you are free to implement your answers in any language you feel comfortable.
 
@@ -25,16 +25,25 @@ Implement Lodash’s `groupBy` in your own way
 #### Question 3
 
 Given two strings, write an algorithm to check if they are anagrams of each other. Return true if they pass the test and false if they don't. E.g
+
 ```JavaScript
+
 isAnagram('silent', 'listen'); // should return true
+
 isAnagram('hello', 'world'); // should return false
+
 ```
+
 #### Question 4
 
 Given a string of text, find and return the most recurring character. E.g
+
 ```JavaScript
+
 maxRecurringChar('aabacada') // will return 'a'
+
 ```
+
 #### Question 5
 
 You have a large bunch of HTML. Inside that HTML are p tags, li tags, table tags, really any and all kinds of HTML tags. Most importantly there are anchor/link tags.
@@ -53,7 +62,7 @@ Write a program to find all of the URLs to which those link tags link and verify
 
 CSS test: Apply required CSS to produce the HTML as per the result image provided.
 
-In [answer04](https://github.com/enboarder/tech-test-junior-fullstack-engineer/tree/master/answers/answer04) folder, open this [index.html](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/index.html) file in a browser. Apply required css in the [styles.css](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/styles.css) file. The end result should look like the image in [CSS_Result.png](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/CSS_Result.png) file.
+In [answer06](https://github.com/enboarder/tech-test-engineer/tree/master/answers/answer06) file in a browser. Apply required css in the [styles.css](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/styles.css) file. The end result should look like the image in [CSS_Result.png](https://github.com/enboarder/tech-test-junior-fullstack-engineer/blob/master/answers/answer04/CSS_Result.png) file.
 
 #### Question 7
 
