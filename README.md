@@ -71,3 +71,7 @@ Simple react component to implement expandable <textarea  />. Very similar to th
 [https://mui.com/components/textarea-autosize/](https://mui.com/components/textarea-autosize/)
 
 Extend the package.json file to include your dependencies required. We expect it to be kept minimum - just required to render a React component.
+
+### Question 7 - Steps of running react component
+1. `npm install`
+2. `npm run start`
